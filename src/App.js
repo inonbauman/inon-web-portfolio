@@ -1,12 +1,14 @@
 import React from 'react';
-import { BrowserRouter as Router } from 'react-router-dom';
-import MainNav from './Components/MainNav';
+import './App.css';
+import MainNav from './Components/MainNav.jsx';
+import AboutMe from './Components/AboutMe.jsx';
 
 function App() {
   return (
-    <Router>
+    <div>
       <MainNav />
-    </Router>
+      <AboutMe />
+    </div>
   );
 }
 
