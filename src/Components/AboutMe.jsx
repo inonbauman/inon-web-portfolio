@@ -57,10 +57,10 @@ function AboutMe() {
                     <a href="mailto:InonBauman@gmail.com" target="_blank" rel="noopener noreferrer">
                         <FaEnvelope size={30} style={{ margin: '0 10px' }}/>
                     </a>
-                    <a href="https://github.com/yourGithubUsername" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/inonbauman/" target="_blank" rel="noopener noreferrer">
                         <FaGithub size={30} style={{ margin: '0 10px' }}/>
                     </a>
-                    <a href="https://www.linkedin.com/in/yourLinkedInUsername/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/inon-bauman/" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin size={30} style={{ margin: '0 10px' }}/>
                     </a>
                 </div>
